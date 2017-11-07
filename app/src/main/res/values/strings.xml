@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="total_price">Cost Before Tip</string>
+    <string-array name="select_tip">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+    </string-array>
+    <string name="tip_amount">Tip Amount</string>
+    <string name="total_bill">Total Bill</string>
+    <string name="calculate_tip">Calculate Tip</string>
+    <string name="percent_label">Percent Tip:</string>
+
+
+</resources>
